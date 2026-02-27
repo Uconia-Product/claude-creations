@@ -1,0 +1,143 @@
+Category,Key,Value
+Company,Name,Uconia
+Company,Category,Construction Management SaaS
+Company,Mission,Become the operating system for large scale construction via digitising the Last Planner System (LPS) to enable transparent reliable collaborative construction planning
+Product Focus,Focus Area,Lookahead planning
+Product Focus,Focus Area,Weekly commitments
+Product Focus,Focus Area,Constraint management
+Product Focus,Focus Area,Percent Plan Complete (PPC)
+Product Focus,Focus Area,Variance learning
+Product Focus,Focus Area,Readiness gating
+Core Module,Name,Plan
+Core Module,Description,Core LPS execution engine
+Core Module,Name,Connect
+Core Module,Description,Bridge between Uconia and Primavera P6 / master schedules
+Primary Users,User Type,General Contractors (GCs)
+Primary Users,User Type,Subcontractor Leads
+Primary Users,User Type,Planners
+Primary Users,User Type,Subcontractor supervisors
+Secondary Users,User Type,Project director
+Secondary Users,User Type,Lead planner
+Secondary Users,User Type,Senior business stakeholders
+Target Client Profile,Profile,GCs building data centres
+Target Client Profile,Profile,Large-scale building project GCs
+Target Client Profile,Profile,Subcontractor leads on complex building projects
+Target Client Profile,Geography,Europe (primary)
+Key Goals,Goal,Improve the efficiency and build speed of Sub contractors on site
+Key Goals,Goal,Integrate office planning with field execution
+Key Goals,Goal,Create a single source of truth for planning
+Key Goals,Goal,Improve schedule reliability
+Key Goals,Goal,Improve PPC performance
+Key Goals,Goal,Improve project SPI
+Active Initiative,Name,Plan 2.0
+Active Initiative,Focus Area,Metric dashboards
+Active Initiative,Focus Area,Constraint management experience
+Active Initiative,Focus Area,Improved task execution tracking
+Active Initiative,Focus Area,Import from P6 improvements
+Active Initiative,Focus Area,Review of weekly P6 import
+Planned Initiative,Focus Area,Advanced reporting
+Planned Initiative,Focus Area,Resource and quantities management
+Planned Initiative,Focus Area,Checklists/Forms
+Planned Initiative,Focus Area,Asset diagram view
+Planned Initiative,Focus Area,Signatures/Sign off
+Planned Initiative,Focus Area,AI driven dashboards - embedding AI into dashboards to drive insight generation
+Planned Initiative,Focus Area,AI driven report generation - natural language prompts for report generation based on data present in the Uconia project
+Planned Initiative,Focus Area,Task bundles/Templates
+Planned Initiative,Focus Area,Supervisor tablet experience
+Planned Initiative,Focus Area,Basic reporting
+Planned Initiative,Focus Area,Connect redesign
+Planned Initiative,Focus Area,Claims support
+Planned Initiative,Focus Area,Notifications centre
+Planned Initiative,Focus Area,Commissioning solution with rule builder for sub task generation
+Planned Initiative,Focus Area,Weekly work plan execution pack
+Planned Initiative,Focus Area,Location centric view
+Planned Initiative,Focus Area,Look ahead centric view
+Planned Initiative,Focus Area,Offline mode on mobile app
+Planned Initiative,Focus Area,Portfolio / multi-project view (not yet in product)
+Workflow Focus,Weekly Flow Step,Import XER from P6
+Workflow Focus,Weekly Flow Step,Review weekend changes to XER from last weeks XER file
+Workflow Focus,Weekly Flow Step,Select look ahead window duration
+Workflow Focus,Weekly Flow Step,Hook and sync tasks within the lookahead period to Plan module
+Workflow Focus,Weekly Flow Step,Conduct look ahead planning
+Workflow Focus,Weekly Flow Step,Identify constraints on tasks within the lookahead window (See constraint flow step)
+Workflow Focus,Weekly Flow Step,Resolve constraints on tasks within the look ahead window (See constraint flow step)
+Workflow Focus,Weekly Flow Step,Week-one focused constraint removal
+Workflow Focus,Weekly Flow Step,Weekly Work Plan commitment (WWP can be created but no dedicated WWP view yet)
+Workflow Focus,Weekly Flow Step,Location-based weekly work breakdown
+Workflow Focus,Weekly Flow Step,Highlighting of Trade handoffs
+Workflow Focus,Weekly Flow Step,WWP execution phase
+Workflow Focus,Weekly Flow Step,Weekly closeout with variance explanation
+Workflow Focus,Weekly Flow Step,Post-week review
+Workflow Focus,Constraint Flow Step,Constraint capture
+Workflow Focus,Constraint Flow Step,Constraint assessment
+Workflow Focus,Constraint Flow Step,Constraint assignment
+Workflow Focus,Constraint Flow Step,Constraint resolution
+Workflow Focus,Constraint Flow Step,Constraint analytics and overview
+Product Strategy Note,Note,Bridge long-term planning (P6) with short-term field execution
+Product Strategy Note,Note,Focus on readiness before commitment (readiness gating is planned but not yet enforced - tasks with unresolved constraints are not currently blocked from commitment)
+Product Strategy Note,Note,Enable learning loops from variance and PPC
+Product Strategy Note,Note,Support trade-to-trade coordination
+Current Product Capabilities,Capability,Lookahead planning (core)
+Current Product Capabilities,Capability,Constraint management - structured LPS workflow (capture / assessment / assignment / resolution / analytics)
+Current Product Capabilities,Capability,PPC tracking - native with structured variance categorisation
+Current Product Capabilities,Capability,Variance learning loop - categories feed weekly closeout
+Current Product Capabilities,Capability,P6 integration via Connect module (import only - weekly XER review in progress)
+Current Product Capabilities,Capability,Hook feature - convert P6 schedule activities to lookahead tasks
+Current Product Capabilities,Capability,Weekly Work Plan creation (no dedicated WWP view yet)
+Current Product Capabilities,Capability,Basic analytics and reporting native on platform
+Current Product Capabilities,Capability,Complex bespoke analytics via Power BI integration
+Current Product Capabilities,Capability,PDF export of basic and complex dashboards (not lookahead or WWP)
+Current Product Capabilities,Capability,Full mobile app
+Current Product Capabilities,Capability,Tasks with unresolved constraints are NOT currently blocked from commitment (readiness gating planned)
+Product Gaps vs Competitors,Gap,No dedicated Weekly Work Plan view
+Product Gaps vs Competitors,Gap,No readiness gating enforcement (constraints visible but do not block commitment)
+Product Gaps vs Competitors,Gap,No spatial / location centric view (planned)
+Product Gaps vs Competitors,Gap,No offline mobile mode (planned)
+Product Gaps vs Competitors,Gap,No schedule change log or schedule impact request workflow
+Product Gaps vs Competitors,Gap,No portfolio / multi-project view
+Product Gaps vs Competitors,Gap,No daily meetings / huddle feature
+Product Gaps vs Competitors,Gap,No clash detection
+Product Gaps vs Competitors,Gap,No BIM integration
+Product Gaps vs Competitors,Gap,No Takt planning
+Product Gaps vs Competitors,Gap,No resource planning (planned)
+Product Gaps vs Competitors,Gap,No Procore or Autodesk integration
+Product Gaps vs Competitors,Gap,No public API
+Product Gaps vs Competitors,Gap,PDF export not available for lookahead or WWP
+Product Gaps vs Competitors,Gap,No commissioning-specific solution (planned - rule builder for sub task generation)
+Business Target,Target,Achieve €1.5M revenue target
+Business Target,Target,Improve PPC on client projects
+Business Target,Target,Improve SPI on client projects
+Business Target,Target,Become the go-to software for capturing onsite actuals in construction
+Business Target,Target,Win GCs building data centres as primary client segment
+Objectives and Key results company wide,Objective,Become the go-to software for capturing onsite actuals in construction
+Objectives and Key results company wide,Objective,Establish a high-performing team where existing people are empowered to grow and new people are eager to join.
+Objectives and Key results company wide,Objective,Create an identity that everyone recognises.
+Objectives and Key results company wide,Objective,Plot our own growth trajectory and attain financial stability.
+Objectives and Key results company wide,Objective,Provide a seamless implementation experience with exceptional support generating client satisfaction and repeat work.
+Objectives and Key results company wide,Key Result,KR 1.1 Deliver the Minimum Lovable Product (MLP) with active weekly use on ≥7 live projects by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 1.2 Enable the independent completion of a full Last Planner Cycle on ≥12 live projects by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 1.3 Ensure that ≥80% of senior stakeholders on live projects use our product data to inform decisions by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 2.1 Implement the OKR & CFR framework with ≥95% adherence from all teams across all quarterly reviews by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 2.2 Maintain voluntary staff turnover ≤10% across all teams by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 2.3 Achieve an eNPS ≥50 across all active staff by the end of Q4 2026 with a Passive score <15%.
+Objectives and Key results company wide,Key Result,KR 3.1 Achieve ≥95% adherence to the Brand Guidelines and Marketing Schedule by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 3.2 Generate ≥25 qualified inbound Leads attributable to Marketing by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 3.3 Gain ≥20 international media features/mentions in recognized industry or mainstream publications by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 4.1 Grow the client database to ≥100 fully profiled companies by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 4.2 Secure ≥20 projects each valued ≥€75000 by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 4.3 Achieve a 20% Lead-to-Customer conversion rate by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 5.1 Resolve ≥90% of support tickets within 72 hours during implementation and 24 Hours during delivery by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 5.2 Achieve ≥40% of total new ARR from existing clients via renewals expansions or referrals by the end of Q4 2026.
+Objectives and Key results company wide,Key Result,KR 5.3 Achieve an NPS ≥50 across all active clients by the end of Q4 2026 with a Passive score <15%.
+Pricing,Model,Per project - scales with client size
+Related Workstream,Workstream,Dashboard reporting exports
+Related Workstream,Workstream,Weekly leadership updates
+Related Workstream,Workstream,Prototype UX iteration
+Related Workstream,Workstream,Constraint resolution workflows
+Competitive Landscape,Competitor,Aphex - multiplayer scheduling with loose LPS support - strong in UK/European infrastructure - no native PPC - no structured constraint workflow
+Competitive Landscape,Competitor,Visilean - LPS + Lean-BIM integrated platform - strong in data centres and global markets - has commissioning checklists for data centres - strong field mobile app
+Competitive Landscape,Competitor,Outbuild - LPS-native scheduling - strong in North America - native PPC and analytics - deep Procore and Autodesk integration - no spatial view
+Competitive Landscape,Commissioning Note,Visilean has commissioning checklists specifically for data centre projects - this is the only competitor with commissioning-specific functionality
+Competitive Landscape,Commissioning Note,Aphex has no commissioning-specific features
+Competitive Landscape,Commissioning Note,Outbuild has no commissioning-specific features
+Competitive Landscape,Commissioning Note,Uconia has a commissioning solution planned with rule builder for sub task generation - this would be a differentiator vs Aphex and Outbuild in the data centre GC segment
